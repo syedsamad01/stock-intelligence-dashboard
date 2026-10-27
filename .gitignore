@@ -1,0 +1,1 @@
+.venv/\nvenv/\n__pycache__/\n*.py[cod]\n.streamlit/secrets.toml\n.env\n.DS_Store\n
